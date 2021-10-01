@@ -4,20 +4,20 @@ expr arg1 …     #evaluate an expression
 <        >        <=        >=
 = , eq           != , nq             x?y:z
 
-abs(arg)
-cos(arg)     acos(arg)    cosh(arg)
-sin(arg)     asin(arg)    sinh(arg)
-tan(arg)     atan(arg)    tanh(arg)
-ceil(arg)    floor(arg)   round(arg)
-entier(arg)
-bool(arg)    int(arg)     double(arg)
-fmod(arg)
-sqrt(arg)    isqrt(arg)
-log(arg)     log10(arg)
-min(arg)     max(arg)
-pow(arg)
-rand(arg)    srand(arg)
-hypot(arg)
+abs
+cos        acos       cosh
+sin        asin       sinh
+tan        atan       tanh
+ceil       floor      round
+entier
+bool       int        double
+fmod
+sqrt       isqrt
+log        log10
+min        max
+pow
+rand       srand
+hypot
 
 
 
